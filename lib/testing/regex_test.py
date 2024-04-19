@@ -1,6 +1,6 @@
 import re
 
-from regex import name_regex, phone_regex, email_regex
+from regex_sample import name_regex, phone_regex, email_regex
 
 class TestNameRegEx:
     '''name_regex in regex.py'''
